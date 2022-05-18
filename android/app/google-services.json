@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "510651380506",
+    "project_id": "flutter-all-c775a",
+    "storage_bucket": "flutter-all-c775a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510651380506:android:eda93a6c627eb4810f32a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sample_widyaedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510651380506-6tfloommmb84s6sft1s2ccssq7jp5tvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQZNEgmEEi3GGl6oT-iOTA70Z3w_dKtwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510651380506-6tfloommmb84s6sft1s2ccssq7jp5tvj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510651380506-ke58vcopogc28nmpkau6k1mk9c1odogs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterSampleWidyaedu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
